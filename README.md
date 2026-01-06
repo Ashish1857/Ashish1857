@@ -124,7 +124,7 @@ Jupyter Notebook · Data Visualization · EDA · Statistics
 - 🚀 Increased user engagement by **37%** by building a centralized, WCAG-compliant frontend portal
 - 🛠 Reduced deployment time by **25%** through **Docker, Azure, GitHub Actions, and Jenkins**
 - 📈 Built scalable dashboards supporting **50,000+ users**
-- 👑 President of **IGSA (UF)** — led events for **300+ students** and raised **$5,000**
+- 👑 President of **IGSA (UF)** — led events for **2000+ students** and raised **$50,000**
 
 
 ## 🐍 Contribution Snake
@@ -134,8 +134,8 @@ Jupyter Notebook · Data Visualization · EDA · Statistics
 
 ## 👑 Leadership
 **President – Indian Graduate Student Association (IGSA), UF**
-- Led large-scale events for **300+ graduate students**
-- Raised **$5,000** through fundraising and outreach initiatives
+- Led large-scale events for **2000+ graduate students**
+- Raised **$50,000** through fundraising and outreach initiatives
 - Collaborated with university leadership on professional development programs
 
 ---
