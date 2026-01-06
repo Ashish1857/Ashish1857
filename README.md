@@ -115,10 +115,6 @@ Jupyter Notebook · Data Visualization · EDA · Statistics
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashish1857&row=1&column=7&margin-w=10" />
-</p>
-
 ### 🏆 Professional Impact
 - ⚡ Improved API response times from **15s → under 700ms** using **Redis caching and SQL optimization**
 - 🚀 Increased user engagement by **37%** by building a centralized, WCAG-compliant frontend portal
