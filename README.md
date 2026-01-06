@@ -114,8 +114,9 @@ Jupyter Notebook · Data Visualization · EDA · Statistics
 ---
 
 ## 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=Ashish1857" />
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashish1857&row=2&column=4" />
+</p>
 
 ---
 
