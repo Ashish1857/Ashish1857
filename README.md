@@ -114,11 +114,18 @@ Jupyter Notebook · Data Visualization · EDA · Statistics
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashish1857&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashish1857&row=1&column=7&margin-w=10" />
 </p>
 
----
+### 🏆 Professional Impact
+- ⚡ Improved API response times from **15s → under 700ms** using **Redis caching and SQL optimization**
+- 🚀 Increased user engagement by **37%** by building a centralized, WCAG-compliant frontend portal
+- 🛠 Reduced deployment time by **25%** through **Docker, Azure, GitHub Actions, and Jenkins**
+- 📈 Built scalable dashboards supporting **50,000+ users**
+- 👑 President of **IGSA (UF)** — led events for **300+ students** and raised **$5,000**
+
 
 ## 🐍 Contribution Snake
 ![snake](https://raw.githubusercontent.com/Ashish1857/Ashish1857/output/github-contribution-grid-snake.svg)
